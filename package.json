@@ -2,7 +2,7 @@
   "name": "myreads-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romanonatacha.github.io/myreads-react/",
+  "homepage": "https://github.com/jorgequintanilha017/registro-de-livro",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.6.2",
