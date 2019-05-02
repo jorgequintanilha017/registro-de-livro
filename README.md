@@ -1,47 +1,33 @@
-MyReads
-===============================
+This project was bootstrapped with [Create React App].
 
-## Description
+##Description
 
-Project created as part of the Udacity Advanced Web Front-End Nanodegree.
+This project is part of the Udacity Advanced Web Front-End Nanodegree.
 
-A personal library to manage your books, with tree shelves, "Currently Reading", "Want To Read" and "Read".
-You can search for new books to add in your library, and you can move the books to another shelf.
+It's a virtual library with 3 shelfs "Currently Reading", "Want to Read" and "Read", the user can move the books between the shelfs and in a second page he/she can search for new books and add them to the shelf.
 
-## Demo
+## Installing
 
-https://github.com/jorgequintanilha017/registro-de-livro
+Inside the project directory run:
 
-## Run the Application localy
+### `npm install`
 
-Clone this repository
+## Running the project
 
-```
-git clone https://github.com/jorgequintanilha017/registro-de-livro.git
-```
+In the project directory, you can run:
 
-### Installing
+### `npm start`
 
-Inside the project directory run
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```
-npm install
-```
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-### Run the application
+Online version:
 
-Start the application
+## Learn More
 
-```
-npm start
-```
+You can learn more in the [Create React App documentation].
 
-* With your server running, visit the site: http://localhost:3000
-
-## Build With
-
-* [ReactJS](https://reactjs.org/)
-
- ## Authors
-
-* **Natacha Romano** - [GitHub Account](https://github.com/jorgequintanilha017)
+To learn React, check out the [React documentation](https://reactjs.org/).
